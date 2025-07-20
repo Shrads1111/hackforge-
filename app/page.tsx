@@ -333,7 +333,7 @@ export default function FakeNewsDetector() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-30"
           style={{
-            backgroundImage: `url('/placeholder.svg?height=1080&width=1920')`,
+            backgroundImage: `url('/https://tse2.mm.bing.net/th/id/OIP.9oaKEVaSIl3wBD9ZwH03WgAAAA?pid=Api&P=0&h=180?height=1080&width=1920')`,
           }}
         />
 
